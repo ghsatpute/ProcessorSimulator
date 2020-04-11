@@ -1,5 +1,8 @@
 # The Processor Simulator 
 
+![Java CI with Maven](https://github.com/ghsatpute/ProcessorSimulator/workflows/Java%20CI%20with%20Maven/badge.svg)
+
+
 I came across [this blogspot](http://megalomaniacbore.blogspot.com/2014/04/virtual-cpu-in-c-4001-cpu.html),
 and I wanted to simulate the physical processor in Java, mostly because I 
 just wanted to refresh my _Computer Organization_ knowledge. 
